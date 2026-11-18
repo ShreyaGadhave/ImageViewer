@@ -1,76 +1,86 @@
-Image Viewer using Doubly Linked List
+# 🖼️ Image Viewer Using Doubly Linked List
 
- Project Overview
+---
 
-Image Viewer is a Java-based application developed to view and manage images. This project demonstrates Java programming concepts, file handling, exception handling, and object-oriented programming.
+## About The Project
 
-The project provides a simple way to work with image files while understanding how Java handles file operations and errors.
+Image Viewer is a Java-based project developed to understand how images can be accessed and displayed using a Doubly Linked List.
 
- Features
+While building this project, I explored Java file handling, exception handling and object-oriented programming through practical implementation.
 
-- View and work with image files.
-- Java-based implementation.
-- File handling operations.
-- Exception handling for common runtime and file-related errors.
-- Organized project structure.
+---
 
+## ✨ Features
 
- Project Structure
+- 🖼️ View and display images.
+- 📁 Work with image files.
+- ↔️ Navigate images using a Doubly Linked List.
+- ⚡ Handle common file-related errors.
+- 🛡️ Exception handling for better reliability.
 
-ImageViewer
-src/
-Main.java
-Other Java Classes
-images/
-Sample image files
-README.md
-```
+---
 
-## ⚙️ How to Run the Project
+## 🛠️ Tech Stack
 
-1. Clone the repository:
+| Technology | Purpose |
+|:---|:---|
+| Java | Core programming language |
+| VS Code | Development environment |
 
-```bash
-git clone https://github.com/ShreyaGadhave/ImageViewer.git
-```
+---
 
-2. Open the project in Visual Studio Code.
+## 📚 Concepts Explored
 
-3. Make sure Java JDK is installed.
+- Doubly Linked List
+- Object-Oriented Programming
+- File Handling
+- Exception Handling
+- Java Classes and Objects
 
-4. Compile your Java files.
+---
 
-5. Run the main class:
+## ⚠️ Exception Handling
 
-```bash
-javac Main.java
-java Main
-```
-
- Exception Handling
-
-The project considers handling common exceptions such as:
+The project explores handling exceptions such as:
 
 - `FileNotFoundException`
 - `IOException`
 - `NullPointerException`
 
- Learning Outcomes
+---
 
-- Understanding Java file handling.
-- Implementing exception handling.
-- Working with multiple Java classes.
-- Understanding project organization and execution.
-- Using Git and GitHub for version control.
+## 🚀 Getting Started
 
-Author
+**1. Clone the repository**
+
+```bash
+git clone https://github.com/ShreyaGadhave/ImageViewer.git
+```
+
+**2.** Open the project in VS Code.
+
+**3.** Make sure Java JDK is installed.
+
+**4.** Run the main Java class to launch the application.
+
+---
+
+## 💡 What I Learned
+
+This project helped me understand the practical implementation of Doubly Linked Lists in Java, along with file operations and exception handling.
+
+---
+
+## 👩‍💻 Author
 
 **Shreya Gadhave**
 
 Computer Engineering Student
 
-GitHub: [ShreyaGadhave](https://github.com/ShreyaGadhave)
+[GitHub Profile](https://github.com/ShreyaGadhave)
 
 ---
 
-⭐ If you find this project interesting, feel free to explore the repository!
+<p align="center">
+  Made with ❤️ and Java ☕
+</p>
