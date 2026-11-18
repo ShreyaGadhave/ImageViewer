@@ -1,4 +1,4 @@
-Image Viewer – Java Project
+Image Viewer using Doubly Linked List
 
  Project Overview
 
@@ -17,16 +17,13 @@ The project provides a simple way to work with image files while understanding h
 
  Project Structure
 
-ImageViewer/
-│
-├── src/
-│   ├── Main.java
-│   └── Other Java Classes
-│
-├── images/
-│   └── Sample image files
-│
-└── README.md
+ImageViewer
+src/
+Main.java
+Other Java Classes
+images/
+Sample image files
+README.md
 ```
 
 ## ⚙️ How to Run the Project
