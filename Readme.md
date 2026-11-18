@@ -1,4 +1,4 @@
-##Image Viewer Using Doubly Linked List
+# Image Viewer Using Doubly Linked List
 
 ---
 
@@ -10,7 +10,7 @@ While building this project, I explored Java file handling, exception handling a
 
 ---
 
-##  Features
+## Features
 
 -  View and display images.
 -  Work with image files.
@@ -49,7 +49,7 @@ The project explores handling exceptions such as:
 
 ---
 
-## Getting Started
+##  Getting Started
 
 **1. Clone the repository**
 
@@ -65,13 +65,13 @@ git clone https://github.com/ShreyaGadhave/ImageViewer.git
 
 ---
 
-## What I Learned
+##  What I Learned
 
 This project helped me understand the practical implementation of Doubly Linked Lists in Java, along with file operations and exception handling.
 
 ---
 
-## Author
+##  Author
 
 **Shreya Gadhave**
 
@@ -82,5 +82,5 @@ Computer Engineering Student
 ---
 
 <p align="center">
-
+ 
 </p>
